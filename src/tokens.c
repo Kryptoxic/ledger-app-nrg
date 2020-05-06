@@ -1196,4 +1196,6 @@ const tokenDefinition_t const TOKENS_WEBCHAIN[NUM_TOKENS_WEBCHAIN] = {};
 
 const tokenDefinition_t const TOKENS_THUNDERCORE[NUM_TOKENS_THUNDERCORE] = {};
 
+const tokenDefinition_t const TOKENS_ENERGI[NUM_TOKENS_ENERGI] = {};
+
 #endif

@@ -89,6 +89,7 @@ extern tokenDefinition_t const TOKENS_ARTIS_SIGMA1[NUM_TOKENS_ARTIS_SIGMA1];
 extern tokenDefinition_t const TOKENS_ARTIS_TAU1[NUM_TOKENS_ARTIS_TAU1];
 extern tokenDefinition_t const TOKENS_WEBCHAIN[NUM_TOKENS_WEBCHAIN];
 extern tokenDefinition_t const TOKENS_THUNDERCORE[NUM_TOKENS_THUNDERCORE];
+extern tokenDefinition_t const TOKENS_ENERGI[NUM_TOKENS_ENERGI];
 
 #endif /* HAVE_TOKENS_LIST */
 
